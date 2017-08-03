@@ -1,0 +1,38 @@
+/* app css stylesheet */
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Griffy|Lemonada');
+
+body{
+  padding-left: 10px;
+}
+h2{
+  font-family: Lemonada,sans-serif;
+  text-shadow: 2px 2px 7px #d6b147;
+}
+input[type="text"]{
+  font-family: Lemonada,sans-serif;
+  font-size: 0.9em;
+  min-width: 135px;
+  width: 40%;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  background: rgba(214,177,71,0.1);
+  box-shadow: 3px 3px 7px #222222;
+}
+button,input[type="submit"]{
+  font-family: Lemonada,sans-serif;
+  font-size: 0.8em;
+  background: #d6b147;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #222222;
+  outline: none;
+  font-weight: bold;
+}
+button{
+  padding: 7px;
+}
+span{
+  font-family: Lemonada,sans-serif;
+  text-shadow: 1px 1px 7px #d6b147;
+}
+
